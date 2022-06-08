@@ -1,0 +1,8 @@
+https://www.altium.com/documentation/altium-designer/using-version-control#!add-a-project-to-git
+
+https://github.com/a-ng-altium/Git-Repo-Prj
+
+https://www.altium.com/documentation/altium-designer/working-with-a-design-repository#!connecting-to-an-existing-git-repository-through-altium-designer
+
+https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
+
